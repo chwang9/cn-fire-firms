@@ -1,0 +1,7 @@
+{
+  "name": "cn-fire-firms",
+  "version": "2.2.2",
+  "installedAt": 1793009434000,
+  "source": "userImport",
+  "description": "中国火点获取与可视化（FIRMS 三种取数方式）。省份可选：不输入省份即出全国版地图（34 个省级行政区数据内嵌、页面内即点即切），输入省份则聚焦该省。生成的 HTML 为单文件应用：顶部行政区划下拉（全国+34省，切省即时生效）+ 三个方式 Tab（免Key CSV / Area API 支持 1-10 天回溯 / WMS 栅格）。方式1 与方式2 均支持 CSV+GeoJSON 下载，输出火点 GeoJSON / CSV 与自包含 HTML"
+}
